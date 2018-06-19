@@ -15,7 +15,7 @@ Version=8.3
 	#VersionName: 1.0
 	'SupportedOrientations possible values: unspecified, landscape or portrait.
 	#SupportedOrientations: Portrait
-	#CanInstallToExternalStorage: False
+	#CanInstallToExternalStorage: True
 #End Region
 
 #Region  Activity Attributes 
